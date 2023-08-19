@@ -1,4 +1,4 @@
-<img src="https://codeberg.org/avatars/56b70b6e7b3d01f7c29fecc5cbc99137737559fc9ebebd9cd0ca3592e3e9a1e0?size=280" width="200" height="200" />
+![img](https://avatars.githubusercontent.com/u/142655061?s=200&v=4)
 
 > Notice: Socialzene is currently under development.
 
