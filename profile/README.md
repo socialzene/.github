@@ -10,8 +10,8 @@
 | Repository         | Description     | Maintainer |
 |--------------|-----------|------------|
 | [.github](https://github.com/socialzene/.github) | discussion | [@rhylso](https://github.com/rhylso)   |
-| [client](https://github.com/socialzene/client) | frontend | [@rhylso](https://github.com/rhylso)       |
-| [server](https://github.com/socialzene/server) | backend | [@rhylso](https://github.com/rhylso)        |
+| [client](https://github.com/socialzene/client) (private) | frontend | [@rhylso](https://github.com/rhylso)       |
+| [server](https://github.com/socialzene/server) (private) | backend | [@rhylso](https://github.com/rhylso)        |
 
 ---
 > Socialzene 2023.
