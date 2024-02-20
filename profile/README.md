@@ -1,9 +1,9 @@
+> [!WARNING]
+> Socialzene is currently under active development.
+
 ![img](https://avatars.githubusercontent.com/u/142655061?s=200&v=4)
-
-> Notice: Socialzene is currently under development.
-
 # Socialzene
-> An upcoming social platform for everyone.
+- An upcoming social media platform for everyone.
 
 ## Repositories
 
@@ -14,4 +14,4 @@
 | [server](https://github.com/socialzene/server) (private) | backend | [@rhylso](https://github.com/rhylso)        |
 
 ---
-> Socialzene 2023.
+> Socialzene 2023 - 2024.
